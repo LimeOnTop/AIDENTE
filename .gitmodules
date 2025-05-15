@@ -1,0 +1,12 @@
+[submodule "gpt-service"]
+	path = gpt-service
+	url = https://github.com/LimeOnTop/gpt-service.git
+[submodule "user-service"]
+	path = user-service
+	url = https://github.com/LimeOnTop/user-service.git
+[submodule "api-gateway"]
+	path = api-gateway
+	url = https://github.com/LimeOnTop/api-gateway.git
+[submodule "auth-api"]
+	path = auth-api
+	url = https://github.com/ArtyomVysotskiy/auth-api.git
