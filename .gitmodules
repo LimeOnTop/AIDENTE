@@ -10,3 +10,6 @@
 [submodule "auth-api"]
 	path = auth-api
 	url = https://github.com/ArtyomVysotskiy/auth-api.git
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/LimeOnTop/frontend
