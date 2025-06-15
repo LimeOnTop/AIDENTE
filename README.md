@@ -59,6 +59,7 @@ docker-compose down
 
 ## Структура проекта
 
+```
 .
 ├── docker-compose.yml
 ├── .env
@@ -68,3 +69,4 @@ docker-compose down
 ├── user-service/
 ├── frontend-service/
 └── README.md
+```
